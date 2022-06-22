@@ -1,0 +1,1674 @@
+{
+    "0": [
+        {
+            "term": "lisamarie",
+            "count": 20
+        },
+        {
+            "term": "smbiz",
+            "count": 18
+        },
+        {
+            "term": "gamenight",
+            "count": 9
+        },
+        {
+            "term": "ednir",
+            "count": 6
+        },
+        {
+            "term": "smashleah",
+            "count": 4
+        }
+    ],
+    "1": [
+        {
+            "term": "gno",
+            "count": 115
+        },
+        {
+            "term": "coolbandsmadeuncool",
+            "count": 221
+        },
+        {
+            "term": "sbbuzz",
+            "count": 30
+        },
+        {
+            "term": "officialbowwow",
+            "count": 49
+        },
+        {
+            "term": "rhwonj",
+            "count": 6
+        }
+    ],
+    "2": [
+        {
+            "term": "toya",
+            "count": 68
+        },
+        {
+            "term": "coolbandsmadeuncool",
+            "count": 186
+        },
+        {
+            "term": "brandon",
+            "count": 221
+        },
+        {
+            "term": "gno",
+            "count": 73
+        },
+        {
+            "term": "nycprep",
+            "count": 20
+        }
+    ],
+    "3": [
+        {
+            "term": "nwms",
+            "count": 10
+        },
+        {
+            "term": "justinmgaston",
+            "count": 46
+        },
+        {
+            "term": "drlead",
+            "count": 11
+        },
+        {
+            "term": "idealmarket",
+            "count": 6
+        },
+        {
+            "term": "meltthephones",
+            "count": 5
+        }
+    ],
+    "4": [
+        {
+            "term": "bgfrz",
+            "count": 43
+        },
+        {
+            "term": "knoxstedy",
+            "count": 43
+        },
+        {
+            "term": "howardwhen",
+            "count": 51
+        },
+        {
+            "term": "stulc",
+            "count": 16
+        },
+        {
+            "term": "uknowublack",
+            "count": 7
+        }
+    ],
+    "5": [
+        {
+            "term": "hikerpoint",
+            "count": 11
+        },
+        {
+            "term": "edsuj",
+            "count": 8
+        },
+        {
+            "term": "theikemoneyshow",
+            "count": 8
+        },
+        {
+            "term": "nts",
+            "count": 54
+        },
+        {
+            "term": "crushms",
+            "count": 8
+        }
+    ],
+    "6": [
+        {
+            "term": "saltlakecitytemple",
+            "count": 12
+        },
+        {
+            "term": "xsmok",
+            "count": 8
+        },
+        {
+            "term": "lunaricsales",
+            "count": 5
+        },
+        {
+            "term": "bubbl",
+            "count": 9
+        },
+        {
+            "term": "aikomelissa",
+            "count": 4
+        }
+    ],
+    "7": [
+        {
+            "term": "getmefollowers",
+            "count": 69
+        },
+        {
+            "term": "spammed",
+            "count": 33
+        },
+        {
+            "term": "manouvering",
+            "count": 7
+        },
+        {
+            "term": "weltfussballarchiv",
+            "count": 7
+        },
+        {
+            "term": "songscbwontsing",
+            "count": 16
+        }
+    ],
+    "8": [
+        {
+            "term": "urlame",
+            "count": 6
+        },
+        {
+            "term": "futuretweets",
+            "count": 12
+        },
+        {
+            "term": "billingtonart",
+            "count": 4
+        },
+        {
+            "term": "ameshockey",
+            "count": 5
+        },
+        {
+            "term": "masla",
+            "count": 3
+        }
+    ],
+    "9": [
+        {
+            "term": "rsalammy",
+            "count": 7
+        },
+        {
+            "term": "fantafootball",
+            "count": 5
+        },
+        {
+            "term": "masterchef",
+            "count": 59
+        },
+        {
+            "term": "thetahealing",
+            "count": 4
+        },
+        {
+            "term": "monlate",
+            "count": 3
+        }
+    ],
+    "10": [
+        {
+            "term": "origin",
+            "count": 153
+        },
+        {
+            "term": "haign",
+            "count": 15
+        },
+        {
+            "term": "newskicks",
+            "count": 7
+        },
+        {
+            "term": "renderstuff",
+            "count": 7
+        },
+        {
+            "term": "newinventors",
+            "count": 8
+        }
+    ],
+    "11": [
+        {
+            "term": "pmqs",
+            "count": 57
+        },
+        {
+            "term": "hittwit",
+            "count": 10
+        },
+        {
+            "term": "tavakoli",
+            "count": 5
+        },
+        {
+            "term": "maylaffayza",
+            "count": 4
+        },
+        {
+            "term": "kkdjo",
+            "count": 4
+        }
+    ],
+    "12": [
+        {
+            "term": "mnnef",
+            "count": 15
+        },
+        {
+            "term": "nwtcs",
+            "count": 4
+        },
+        {
+            "term": "megaups",
+            "count": 4
+        },
+        {
+            "term": "ermita",
+            "count": 5
+        },
+        {
+            "term": "qpmuz",
+            "count": 3
+        }
+    ],
+    "13": [
+        {
+            "term": "ttxra",
+            "count": 7
+        },
+        {
+            "term": "fhin",
+            "count": 7
+        },
+        {
+            "term": "mariedugan",
+            "count": 7
+        },
+        {
+            "term": "ssbl",
+            "count": 7
+        },
+        {
+            "term": "swissy",
+            "count": 7
+        }
+    ],
+    "14": [
+        {
+            "term": "trt",
+            "count": 32
+        },
+        {
+            "term": "iamthewalrus",
+            "count": 32
+        },
+        {
+            "term": "dimicco",
+            "count": 8
+        },
+        {
+            "term": "qeph",
+            "count": 8
+        },
+        {
+            "term": "dougiemcfly",
+            "count": 56
+        }
+    ],
+    "15": [
+        {
+            "term": "brandchat",
+            "count": 26
+        },
+        {
+            "term": "yatj",
+            "count": 14
+        },
+        {
+            "term": "aovi",
+            "count": 24
+        },
+        {
+            "term": "choping",
+            "count": 36
+        },
+        {
+            "term": "unbelevable",
+            "count": 14
+        }
+    ],
+    "16": [
+        {
+            "term": "ikngz",
+            "count": 12
+        },
+        {
+            "term": "ysnjen",
+            "count": 12
+        },
+        {
+            "term": "emissey",
+            "count": 9
+        },
+        {
+            "term": "khloekardashian",
+            "count": 89
+        },
+        {
+            "term": "pyri",
+            "count": 9
+        }
+    ],
+    "17": [
+        {
+            "term": "behindthefirewall",
+            "count": 19
+        },
+        {
+            "term": "shlxs",
+            "count": 7
+        },
+        {
+            "term": "icchat",
+            "count": 12
+        },
+        {
+            "term": "orbitz",
+            "count": 190
+        },
+        {
+            "term": "sharonsilver",
+            "count": 14
+        }
+    ],
+    "18": [
+        {
+            "term": "sanford",
+            "count": 963
+        },
+        {
+            "term": "unfaithful",
+            "count": 78
+        },
+        {
+            "term": "vocus",
+            "count": 38
+        },
+        {
+            "term": "getbuttonedup",
+            "count": 22
+        },
+        {
+            "term": "tomhanks",
+            "count": 48
+        }
+    ],
+    "19": [
+        {
+            "term": "zamin",
+            "count": 9
+        },
+        {
+            "term": "eyhr",
+            "count": 8
+        },
+        {
+            "term": "spoilage",
+            "count": 9
+        },
+        {
+            "term": "roastcharlesh",
+            "count": 9
+        },
+        {
+            "term": "halftime",
+            "count": 36
+        }
+    ],
+    "20": [
+        {
+            "term": "spain",
+            "count": 1274
+        },
+        {
+            "term": "usa",
+            "count": 1142
+        },
+        {
+            "term": "grafitonline",
+            "count": 54
+        },
+        {
+            "term": "soccer",
+            "count": 515
+        },
+        {
+            "term": "dempsey",
+            "count": 81
+        }
+    ],
+    "21": [
+        {
+            "term": "unnecessarysequels",
+            "count": 161
+        },
+        {
+            "term": "cordinates",
+            "count": 10
+        },
+        {
+            "term": "arsenale",
+            "count": 10
+        },
+        {
+            "term": "twospirits",
+            "count": 10
+        },
+        {
+            "term": "nvxqb",
+            "count": 6
+        }
+    ],
+    "22": [
+        {
+            "term": "mfkkfa",
+            "count": 16
+        },
+        {
+            "term": "sickamore",
+            "count": 7
+        },
+        {
+            "term": "unnecessarysequels",
+            "count": 106
+        },
+        {
+            "term": "geeksmobileusa",
+            "count": 4
+        },
+        {
+            "term": "twimreaper",
+            "count": 4
+        }
+    ],
+    "23": [
+        {
+            "term": "uhs",
+            "count": 82
+        },
+        {
+            "term": "bardos",
+            "count": 7
+        },
+        {
+            "term": "mudat",
+            "count": 7
+        },
+        {
+            "term": "beya",
+            "count": 6
+        },
+        {
+            "term": "blre",
+            "count": 7
+        }
+    ],
+    "24": [
+        {
+            "term": "wipeout",
+            "count": 110
+        },
+        {
+            "term": "crystalchappell",
+            "count": 63
+        },
+        {
+            "term": "worldso",
+            "count": 6
+        },
+        {
+            "term": "twitterdownline",
+            "count": 6
+        },
+        {
+            "term": "rtunit",
+            "count": 5
+        }
+    ],
+    "25": [
+        {
+            "term": "mashchat",
+            "count": 28
+        },
+        {
+            "term": "spinjen",
+            "count": 13
+        },
+        {
+            "term": "editorchat",
+            "count": 24
+        },
+        {
+            "term": "jonathanrknight",
+            "count": 150
+        },
+        {
+            "term": "sytycd",
+            "count": 193
+        }
+    ],
+    "26": [
+        {
+            "term": "obamercial",
+            "count": 120
+        },
+        {
+            "term": "pinklemon",
+            "count": 34
+        },
+        {
+            "term": "topchef",
+            "count": 22
+        },
+        {
+            "term": "talentnet",
+            "count": 70
+        },
+        {
+            "term": "tonyhawk",
+            "count": 63
+        }
+    ],
+    "27": [
+        {
+            "term": "tigerdistrict",
+            "count": 13
+        },
+        {
+            "term": "techotechnology",
+            "count": 8
+        },
+        {
+            "term": "lealee",
+            "count": 6
+        },
+        {
+            "term": "oasisfanatic",
+            "count": 5
+        },
+        {
+            "term": "notohifiandyestoadam",
+            "count": 6
+        }
+    ],
+    "28": [
+        {
+            "term": "joeymcintyre",
+            "count": 250
+        },
+        {
+            "term": "ikraj",
+            "count": 17
+        },
+        {
+            "term": "pavlovic",
+            "count": 39
+        },
+        {
+            "term": "shaq",
+            "count": 583
+        },
+        {
+            "term": "pausewords",
+            "count": 16
+        }
+    ],
+    "29": [
+        {
+            "term": "shaq",
+            "count": 557
+        },
+        {
+            "term": "epose",
+            "count": 12
+        },
+        {
+            "term": "emeasthegreat",
+            "count": 5
+        },
+        {
+            "term": "marcycatherine",
+            "count": 4
+        },
+        {
+            "term": "johntanz",
+            "count": 4
+        }
+    ],
+    "30": [
+        {
+            "term": "feelfuzzy",
+            "count": 15
+        },
+        {
+            "term": "peration",
+            "count": 7
+        },
+        {
+            "term": "theresanappforthat",
+            "count": 5
+        },
+        {
+            "term": "cleg",
+            "count": 4
+        },
+        {
+            "term": "mubavu",
+            "count": 4
+        }
+    ],
+    "31": [
+        {
+            "term": "greenwave",
+            "count": 13
+        },
+        {
+            "term": "thegreenwave",
+            "count": 12
+        },
+        {
+            "term": "atryw",
+            "count": 6
+        },
+        {
+            "term": "vampirekellixd",
+            "count": 5
+        },
+        {
+            "term": "fcfnm",
+            "count": 4
+        }
+    ],
+    "32": [
+        {
+            "term": "leamon",
+            "count": 7
+        },
+        {
+            "term": "managemyads",
+            "count": 7
+        },
+        {
+            "term": "qrmrg",
+            "count": 7
+        },
+        {
+            "term": "catemowen",
+            "count": 5
+        },
+        {
+            "term": "thatdawnkwash",
+            "count": 5
+        }
+    ],
+    "33": [
+        {
+            "term": "basigi",
+            "count": 5
+        },
+        {
+            "term": "altxtina",
+            "count": 5
+        },
+        {
+            "term": "rsg",
+            "count": 26
+        },
+        {
+            "term": "cinathediva",
+            "count": 4
+        },
+        {
+            "term": "aleksk",
+            "count": 3
+        }
+    ],
+    "34": [
+        {
+            "term": "jewelryguru",
+            "count": 9
+        },
+        {
+            "term": "tapurl",
+            "count": 8
+        },
+        {
+            "term": "battlestarquorum",
+            "count": 8
+        },
+        {
+            "term": "beddz",
+            "count": 4
+        },
+        {
+            "term": "patni",
+            "count": 4
+        }
+    ],
+    "35": [
+        {
+            "term": "imlatebcoz",
+            "count": 17
+        },
+        {
+            "term": "quipit",
+            "count": 9
+        },
+        {
+            "term": "cyclogz",
+            "count": 6
+        },
+        {
+            "term": "divining",
+            "count": 7
+        },
+        {
+            "term": "ftfd",
+            "count": 6
+        }
+    ],
+    "36": [
+        {
+            "term": "bbquiz",
+            "count": 32
+        },
+        {
+            "term": "mgilinfo",
+            "count": 11
+        },
+        {
+            "term": "orjq",
+            "count": 12
+        },
+        {
+            "term": "postersession",
+            "count": 6
+        },
+        {
+            "term": "kenarmitt",
+            "count": 5
+        }
+    ],
+    "37": [
+        {
+            "term": "ufhsl",
+            "count": 15
+        },
+        {
+            "term": "lzcdx",
+            "count": 7
+        },
+        {
+            "term": "twanger",
+            "count": 7
+        },
+        {
+            "term": "followimg",
+            "count": 7
+        },
+        {
+            "term": "offerta",
+            "count": 13
+        }
+    ],
+    "38": [
+        {
+            "term": "vagheeiat",
+            "count": 30
+        },
+        {
+            "term": "raipur",
+            "count": 8
+        },
+        {
+            "term": "seniorcare",
+            "count": 8
+        },
+        {
+            "term": "beyd",
+            "count": 5
+        },
+        {
+            "term": "yougrowgirl",
+            "count": 5
+        }
+    ],
+    "39": [
+        {
+            "term": "bjwh",
+            "count": 14
+        },
+        {
+            "term": "gnhbf",
+            "count": 8
+        },
+        {
+            "term": "dlvb",
+            "count": 9
+        },
+        {
+            "term": "idoltour",
+            "count": 14
+        },
+        {
+            "term": "rypple",
+            "count": 6
+        }
+    ],
+    "40": [
+        {
+            "term": "dvcgs",
+            "count": 32
+        },
+        {
+            "term": "cokoz",
+            "count": 11
+        },
+        {
+            "term": "hbcrn",
+            "count": 8
+        },
+        {
+            "term": "flmmj",
+            "count": 8
+        },
+        {
+            "term": "capacid",
+            "count": 5
+        }
+    ],
+    "41": [
+        {
+            "term": "farrah",
+            "count": 1801
+        },
+        {
+            "term": "fawcett",
+            "count": 1298
+        },
+        {
+            "term": "teyanataylor",
+            "count": 48
+        },
+        {
+            "term": "zoocasa",
+            "count": 21
+        },
+        {
+            "term": "websquared",
+            "count": 21
+        }
+    ],
+    "42": [
+        {
+            "term": "sltu",
+            "count": 13
+        },
+        {
+            "term": "dealfinder",
+            "count": 13
+        },
+        {
+            "term": "fernandoescobar",
+            "count": 9
+        },
+        {
+            "term": "eghau",
+            "count": 10
+        },
+        {
+            "term": "culinaryhatchet",
+            "count": 7
+        }
+    ],
+    "43": [
+        {
+            "term": "wowinsider",
+            "count": 36
+        },
+        {
+            "term": "whitelotussouth",
+            "count": 9
+        },
+        {
+            "term": "thankuthursday",
+            "count": 7
+        },
+        {
+            "term": "lorenzagarza",
+            "count": 8
+        },
+        {
+            "term": "razztt",
+            "count": 6
+        }
+    ],
+    "44": [
+        {
+            "term": "followreader",
+            "count": 30
+        },
+        {
+            "term": "stopmtr",
+            "count": 20
+        },
+        {
+            "term": "wwcgd",
+            "count": 9
+        },
+        {
+            "term": "gunnoe",
+            "count": 8
+        },
+        {
+            "term": "whatif",
+            "count": 45
+        }
+    ],
+    "45": [
+        {
+            "term": "rushed",
+            "count": 632
+        },
+        {
+            "term": "cardiac",
+            "count": 1027
+        },
+        {
+            "term": "tmz",
+            "count": 1448
+        },
+        {
+            "term": "arrest",
+            "count": 1036
+        },
+        {
+            "term": "hospital",
+            "count": 1282
+        }
+    ],
+    "46": [
+        {
+            "term": "jackson",
+            "count": 18823
+        },
+        {
+            "term": "michael",
+            "count": 18088
+        },
+        {
+            "term": "dead",
+            "count": 8171
+        },
+        {
+            "term": "coma",
+            "count": 2426
+        },
+        {
+            "term": "died",
+            "count": 5049
+        }
+    ],
+    "47": [
+        {
+            "term": "jackson",
+            "count": 10897
+        },
+        {
+            "term": "michael",
+            "count": 10886
+        },
+        {
+            "term": "rip",
+            "count": 3798
+        },
+        {
+            "term": "goldblum",
+            "count": 1012
+        },
+        {
+            "term": "mj",
+            "count": 5418
+        }
+    ],
+    "48": [
+        {
+            "term": "goldblum",
+            "count": 910
+        },
+        {
+            "term": "kevinspacey",
+            "count": 231
+        },
+        {
+            "term": "jeff",
+            "count": 918
+        },
+        {
+            "term": "mj",
+            "count": 3962
+        },
+        {
+            "term": "curry",
+            "count": 312
+        }
+    ],
+    "49": [
+        {
+            "term": "snoopdoggtv",
+            "count": 44
+        },
+        {
+            "term": "irememberthetime",
+            "count": 32
+        },
+        {
+            "term": "bxy",
+            "count": 46
+        },
+        {
+            "term": "snoopdogg",
+            "count": 61
+        },
+        {
+            "term": "daye",
+            "count": 51
+        }
+    ],
+    "50": [
+        {
+            "term": "everbrandy",
+            "count": 79
+        },
+        {
+            "term": "beyh",
+            "count": 26
+        },
+        {
+            "term": "urmtz",
+            "count": 57
+        },
+        {
+            "term": "mariolavandeira",
+            "count": 27
+        },
+        {
+            "term": "restinpeacemj",
+            "count": 9
+        }
+    ],
+    "51": [
+        {
+            "term": "drakkardnoir",
+            "count": 71
+        },
+        {
+            "term": "calathes",
+            "count": 18
+        },
+        {
+            "term": "kolahmusic",
+            "count": 7
+        },
+        {
+            "term": "ilijw",
+            "count": 15
+        },
+        {
+            "term": "ppkm",
+            "count": 9
+        }
+    ],
+    "52": [
+        {
+            "term": "vhhj",
+            "count": 79
+        },
+        {
+            "term": "peform",
+            "count": 75
+        },
+        {
+            "term": "jhbvv",
+            "count": 6
+        },
+        {
+            "term": "believesulli",
+            "count": 6
+        },
+        {
+            "term": "myfabolouslife",
+            "count": 114
+        }
+    ],
+    "53": [
+        {
+            "term": "isbin",
+            "count": 10
+        },
+        {
+            "term": "ddyw",
+            "count": 7
+        },
+        {
+            "term": "losway",
+            "count": 6
+        },
+        {
+            "term": "dsvj",
+            "count": 18
+        },
+        {
+            "term": "bioncefoxx",
+            "count": 8
+        }
+    ],
+    "54": [
+        {
+            "term": "kimkardashian",
+            "count": 104
+        },
+        {
+            "term": "aodzk",
+            "count": 11
+        },
+        {
+            "term": "seguima",
+            "count": 6
+        },
+        {
+            "term": "rdada",
+            "count": 5
+        },
+        {
+            "term": "cosmicgirljewel",
+            "count": 11
+        }
+    ],
+    "55": [
+        {
+            "term": "duringsex",
+            "count": 19
+        },
+        {
+            "term": "emilyfoshh",
+            "count": 4
+        },
+        {
+            "term": "mpasp",
+            "count": 5
+        },
+        {
+            "term": "kwq",
+            "count": 12
+        },
+        {
+            "term": "darealamberrose",
+            "count": 16
+        }
+    ],
+    "56": [
+        {
+            "term": "ppvz",
+            "count": 6
+        },
+        {
+            "term": "benippon",
+            "count": 6
+        },
+        {
+            "term": "alancarr",
+            "count": 52
+        },
+        {
+            "term": "rescuerun",
+            "count": 4
+        },
+        {
+            "term": "visualjelly",
+            "count": 4
+        }
+    ],
+    "57": [
+        {
+            "term": "inmemoryofmj",
+            "count": 15
+        },
+        {
+            "term": "beiser",
+            "count": 6
+        },
+        {
+            "term": "skyalbum",
+            "count": 5
+        },
+        {
+            "term": "wrei",
+            "count": 5
+        },
+        {
+            "term": "sontatsuploaded",
+            "count": 5
+        }
+    ],
+    "58": [
+        {
+            "term": "mkcwy",
+            "count": 5
+        },
+        {
+            "term": "lhyjzq",
+            "count": 4
+        },
+        {
+            "term": "hfeat",
+            "count": 4
+        },
+        {
+            "term": "texju",
+            "count": 5
+        },
+        {
+            "term": "cellpro",
+            "count": 3
+        }
+    ],
+    "59": [
+        {
+            "term": "pdmmm",
+            "count": 9
+        },
+        {
+            "term": "oerd",
+            "count": 9
+        },
+        {
+            "term": "pixion",
+            "count": 10
+        },
+        {
+            "term": "vtfyz",
+            "count": 5
+        },
+        {
+            "term": "goodbyemichaeljackson",
+            "count": 4
+        }
+    ],
+    "60": [
+        {
+            "term": "jamiestwitchen",
+            "count": 20
+        },
+        {
+            "term": "barthelmess",
+            "count": 5
+        },
+        {
+            "term": "bestofmichael",
+            "count": 5
+        },
+        {
+            "term": "sxxs",
+            "count": 5
+        },
+        {
+            "term": "robcipriano",
+            "count": 4
+        }
+    ],
+    "61": [
+        {
+            "term": "beyj",
+            "count": 11
+        },
+        {
+            "term": "altdevtest",
+            "count": 5
+        },
+        {
+            "term": "gqpze",
+            "count": 5
+        },
+        {
+            "term": "pqzg",
+            "count": 5
+        },
+        {
+            "term": "twedgetest",
+            "count": 5
+        }
+    ],
+    "62": [
+        {
+            "term": "wbys",
+            "count": 14
+        },
+        {
+            "term": "rulenote",
+            "count": 8
+        },
+        {
+            "term": "xipus",
+            "count": 6
+        },
+        {
+            "term": "ofgge",
+            "count": 5
+        },
+        {
+            "term": "overplaying",
+            "count": 6
+        }
+    ],
+    "63": [
+        {
+            "term": "xmipj",
+            "count": 13
+        },
+        {
+            "term": "znvm",
+            "count": 12
+        },
+        {
+            "term": "zaphodgjd",
+            "count": 12
+        },
+        {
+            "term": "zinnet",
+            "count": 11
+        },
+        {
+            "term": "newhomejourney",
+            "count": 7
+        }
+    ],
+    "64": [
+        {
+            "term": "articlebank",
+            "count": 25
+        },
+        {
+            "term": "jaicp",
+            "count": 14
+        },
+        {
+            "term": "issel",
+            "count": 13
+        },
+        {
+            "term": "davet",
+            "count": 11
+        },
+        {
+            "term": "drselz",
+            "count": 12
+        }
+    ],
+    "65": [
+        {
+            "term": "hcmktg",
+            "count": 40
+        },
+        {
+            "term": "rmzjx",
+            "count": 11
+        },
+        {
+            "term": "cmxnx",
+            "count": 13
+        },
+        {
+            "term": "dhoni",
+            "count": 32
+        },
+        {
+            "term": "cmtychat",
+            "count": 22
+        }
+    ],
+    "66": [
+        {
+            "term": "jellytalks",
+            "count": 25
+        },
+        {
+            "term": "platformchat",
+            "count": 28
+        },
+        {
+            "term": "michaeljacksonbetterthandisney",
+            "count": 10
+        },
+        {
+            "term": "rohrbacher",
+            "count": 8
+        },
+        {
+            "term": "momactive",
+            "count": 15
+        }
+    ],
+    "67": [
+        {
+            "term": "jordanknight",
+            "count": 240
+        },
+        {
+            "term": "dqvd",
+            "count": 25
+        },
+        {
+            "term": "gregdane",
+            "count": 9
+        },
+        {
+            "term": "cmadhur",
+            "count": 9
+        },
+        {
+            "term": "nandinisen",
+            "count": 9
+        }
+    ],
+    "68": [
+        {
+            "term": "kow",
+            "count": 89
+        },
+        {
+            "term": "winans",
+            "count": 104
+        },
+        {
+            "term": "celebritybiscuits",
+            "count": 10
+        },
+        {
+            "term": "davidgregory",
+            "count": 25
+        },
+        {
+            "term": "zhuk",
+            "count": 7
+        }
+    ],
+    "69": [
+        {
+            "term": "knryb",
+            "count": 41
+        },
+        {
+            "term": "dameelizabeth",
+            "count": 97
+        },
+        {
+            "term": "ttmes",
+            "count": 11
+        },
+        {
+            "term": "jsv",
+            "count": 11
+        },
+        {
+            "term": "hoyer",
+            "count": 29
+        }
+    ],
+    "70": [
+        {
+            "term": "boehner",
+            "count": 190
+        },
+        {
+            "term": "johnboehner",
+            "count": 71
+        },
+        {
+            "term": "indefinite",
+            "count": 46
+        },
+        {
+            "term": "aptchat",
+            "count": 8
+        },
+        {
+            "term": "mostannoyingthing",
+            "count": 6
+        }
+    ],
+    "71": [
+        {
+            "term": "pronger",
+            "count": 118
+        },
+        {
+            "term": "lobiondo",
+            "count": 49
+        },
+        {
+            "term": "reichert",
+            "count": 53
+        },
+        {
+            "term": "lupul",
+            "count": 37
+        },
+        {
+            "term": "turncoats",
+            "count": 31
+        }
+    ],
+    "72": [
+        {
+            "term": "kadri",
+            "count": 37
+        },
+        {
+            "term": "tweetboard",
+            "count": 43
+        },
+        {
+            "term": "twitterfollowersoftware",
+            "count": 9
+        },
+        {
+            "term": "realzzz",
+            "count": 25
+        },
+        {
+            "term": "ifljo",
+            "count": 8
+        }
+    ],
+    "73": [
+        {
+            "term": "thesmartmama",
+            "count": 171
+        },
+        {
+            "term": "qfgtdj",
+            "count": 9
+        },
+        {
+            "term": "tmwc",
+            "count": 32
+        },
+        {
+            "term": "fridaynitemix",
+            "count": 13
+        },
+        {
+            "term": "leddy",
+            "count": 10
+        }
+    ],
+    "74": [
+        {
+            "term": "atwicted",
+            "count": 19
+        },
+        {
+            "term": "turncoat",
+            "count": 21
+        },
+        {
+            "term": "chicmommy",
+            "count": 14
+        },
+        {
+            "term": "ckvisual",
+            "count": 9
+        },
+        {
+            "term": "arvai",
+            "count": 12
+        }
+    ],
+    "75": [
+        {
+            "term": "marriageman",
+            "count": 25
+        },
+        {
+            "term": "uhzea",
+            "count": 4
+        },
+        {
+            "term": "imminently",
+            "count": 10
+        },
+        {
+            "term": "chloelyzun",
+            "count": 3
+        },
+        {
+            "term": "fnpzv",
+            "count": 3
+        }
+    ]
+}
